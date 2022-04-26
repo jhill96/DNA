@@ -15,7 +15,7 @@
 import java.io.*;    // for File
 import java.util.*;  // for Scanner
 
-public class JHDNA { // Start of DNA2 class
+public class JHDNA { // Start of JHDNA class
    
     // start of main method
     public static void main(String[] args) 
