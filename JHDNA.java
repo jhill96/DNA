@@ -1,7 +1,5 @@
 // Programmer: Jonathan Hill
-// Class: CS 141
 // Date: 11/23/21
-// Assingment: Lab 6 - DNA
 // This program will take an input file that has a list of nucleotides 
 // in the form of a string and break those nucleotides down in the following way. 
 // First, the program will give the region name and the string of nucleotides.
